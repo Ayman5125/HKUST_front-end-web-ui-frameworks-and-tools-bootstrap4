@@ -1,3 +1,6 @@
+.carousel-caption {
+  padding-bottom: 50px; }
+
 .row-header {
   margin: 0px auto;
   padding: 0px 0px; }
@@ -30,6 +33,18 @@ body {
 
 .navbar-dark {
   background-color: #512DA8; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+#reservetable {
+  font-size: 1rem; }
 
 .tab-content {
   border-left: 1px solid #ddd;
